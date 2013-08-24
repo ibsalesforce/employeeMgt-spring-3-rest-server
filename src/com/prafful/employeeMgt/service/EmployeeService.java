@@ -22,20 +22,20 @@ public class EmployeeService {
 		// Create in-memory list
 		Employee employee1 = new Employee();
 		employee1.setId(0L);
-		employee1.setFirstName("Ajay");
-		employee1.setLastName("Jain");
+		employee1.setFirstName("Sunil");
+		employee1.setLastName("Shetty");
 		employee1.setMoney(1000.0);
 		
 		Employee employee2 = new Employee();
 		employee2.setId(1L);
-		employee2.setFirstName("Surabhi");
-		employee2.setLastName("Parihar");
+		employee2.setFirstName("Akshay");
+		employee2.setLastName("Kumar");
 		employee2.setMoney(2000.0);
 		
 		Employee employee3 = new Employee();
 		employee3.setId(2L);
-		employee3.setFirstName("Neeraj");
-		employee3.setLastName("Sharma");
+		employee3.setFirstName("Abhishek");
+		employee3.setLastName("Bachan");
 		employee3.setMoney(3000.0);
 		
 		employees.add(employee1);
